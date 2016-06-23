@@ -33,8 +33,11 @@ Rules can be easily generated through AuthoringTool web interface, that lets use
 ## Problems encountered:
 
 Unfortunately, we also encountered some issues with these components:  
+
 * recent Orion versions dropped xml support, but we discovered that Proton CEP only expects incoming events to be in xml format. This thing is not clearly stated anywhere.
 So we had to use an old Orion version: 0.28.  
 * Proton docker image has some issues: AuthoringTool is not able to export the created rule inside its correct path on the fs, so you need to manually creating a rule in the right path and pasting inside it the rule.  
 Secondly, it seems it expects tomcat7 to be placed in "/usr/share/tomcat7/", while path on the docker image is indeed "/var/lib/tomcat7".  So we had to manually symlink "/var/lib/tomcat7" to "/usr/share/tomcat7" to make it work.  
-* Lastly, documentation is not always precise and up to date (specially Proton's one).
+* Documentation is not always precise and up to date (specially Proton's one).  
+* Lastly, in tomcat10 init script in cep-r3.3.3-img there is a typo that prevents tomcat restart. This bug was immediately reported.
+
