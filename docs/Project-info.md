@@ -15,7 +15,9 @@ Current Gradle configuration:
     compile 'com.google.code.gson:gson:2.5'
     compile 'com.squareup.okio:okio:1.6.0'
     compile 'com.squareup.okhttp:okhttp:2.5.0'
+    apt 'com.google.dagger:dagger-compiler:2.0.2'
     compile 'com.google.dagger:dagger:2.0.2'
+    provided 'org.glassfish:javax.annotation:10.0-b28'
 
 ## Project architecture
 
@@ -35,9 +37,10 @@ Home location will then be stored and never asked again.
 
 ## Known bugs
 
-As app is still in beta, there are some known bugs. Here listed by decreasing severity:
-* If user has > 1 google accounts, selecting two different accounts for each calendar rule will make last enabled rule overwrite other calendar (ie: we will only catch calendar events from a single calendar account for now)
-* We must provide a way to delete data bounded to a rule (eg: delete user home location, if user wants to update it). As of now the user is forced to go to android settings and delete application data.
-* We do not have any settings for now.
-* CalendarTomorrowRule must be splitted in two different Rules.
+As app is still in beta, there are some known bugs. Here listed by decreasing severity:  
+
+* If user has > 1 google accounts, selecting two different accounts for each calendar rule will make last enabled rule overwrite other calendar (ie: we will only catch calendar events from a single calendar account for now)  
+* We must provide a way to delete data bounded to a rule (eg: delete user home location, if user wants to update it). As of now the user is forced to go to android settings and delete application data.  
+* We do not have any settings for now.  
+* CalendarTomorrowRule must be splitted in two different Rules.  
 * Room/Weather temperature CEP rule has to be smarter (now it is just a rough, test driven implementation).
