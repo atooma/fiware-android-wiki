@@ -28,7 +28,7 @@ Proton is an engine that waits for incoming events, and once received, evaluates
 Rules can be easily generated through AuthoringTool web interface, that lets users create their own rules starting from templates, with a simple UI.  
 
 
-![CB-CEP integration](https://github.com/atooma/fiware-android/blob/master/DOC/assets/CB-CEP.png)
+![CB-CEP integration](https://github.com/atooma/fiware-android-wiki/blob/master/assets/CB-CEP.png)
 
 ## Problems encountered:
 

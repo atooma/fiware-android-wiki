@@ -16,7 +16,7 @@ one to remember him to switch off the heaters, the other to remember him to swit
 ## Where can I get it?
 
 **This was our demo app, and it is not working anymore.**  
-Please go to [Devel](https://github.com/atooma/fiware-android/wiki/Devel#where-can-i-download-devel-version) to grab latest apk.  
+Please go to [Devel](https://github.com/atooma/fiware-android-wiki/Devel#where-can-i-download-devel-version) to grab latest apk.  
 
 App screenshot:  
 <img src="https://github.com/atooma/fiware-android/blob/master/DOC/assets/AppScreen.png" width="300">  

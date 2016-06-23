@@ -57,4 +57,4 @@ While refresh token should never expire, an user can indeed revoke it.
 In that case, a message is sent to the device, requiring a new auth token.
 
 ## gae-fiware's flow
-![Architecture](https://github.com/atooma/fiware-android/blob/master/DOC/assets/gae-fiware-diagram.png)
+![Architecture](https://github.com/atooma/fiware-android-wiki/blob/master/assets/gae-fiware-diagram.png)

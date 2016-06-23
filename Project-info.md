@@ -30,7 +30,7 @@ For external temperature at home/event location outside, first time one of them 
 Home location will then be stored and never asked again.  
 
 
-![Architecture](https://github.com/atooma/fiware-android/blob/master/DOC/assets/ArchitectureDiagram.png)
+![Architecture](https://github.com/atooma/fiware-android-wiki/assets/ArchitectureDiagram.png)
 
 
 ## Known bugs
