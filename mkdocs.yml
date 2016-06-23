@@ -6,7 +6,7 @@ site_author: Federico Di Pierro
 repo_url: https://github.com/atooma/fiware-android-wiki
 
 pages:
-- Home: README.md
+- Home: index.md
 - Getting started: Getting-started-with-fiware-android.md
 - Fiware: Fiware:-an-open-and-simple-help-for-developers.md
 - Prject: Project-info.md
