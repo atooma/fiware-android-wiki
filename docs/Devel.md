@@ -32,6 +32,6 @@ Again, CEP and CB helped us to reach our goals quite fast thanks to their versat
 
 ## Some updated screenshots:
 
-![MainScreen](assets/MainScreen.png)
-![SettingsScreen](assets/SettingsScreen)
+![MainScreen](assets/MainScreen.png =300x)
+![SettingsScreen](assets/SettingsScreen.png =300x)
 
