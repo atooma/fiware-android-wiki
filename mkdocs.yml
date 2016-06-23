@@ -1,3 +1,8 @@
+site_name: fiware-android
+site_url: https://github.com/atooma/fiware-android-wiki
+site_description: DOC for private fiware-android repo
+site_author: Federico Di Pierro
+
 repo_url: https://github.com/atooma/fiware-android-wiki
 
 pages:
