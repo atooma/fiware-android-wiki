@@ -1,4 +1,5 @@
-## Fixed bugs (compared to demo app)
+## Fixed bugs
+*Compared to demo app*
 
 * fixed multiple gcalendar accounts
 * added "delete data"

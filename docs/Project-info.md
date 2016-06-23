@@ -38,6 +38,7 @@ Home location will then be stored and never asked again.
 ## Known bugs
 
 As app is still in beta, there are some known bugs. Here listed by decreasing severity:  
+**Please note that this bug are already fixed in development version**, see [Fixed bugs](Devel#Fixed-bugs).
 
 * If user has > 1 google accounts, selecting two different accounts for each calendar rule will make last enabled rule overwrite other calendar (ie: we will only catch calendar events from a single calendar account for now)  
 * We must provide a way to delete data bounded to a rule (eg: delete user home location, if user wants to update it). As of now the user is forced to go to android settings and delete application data.  
