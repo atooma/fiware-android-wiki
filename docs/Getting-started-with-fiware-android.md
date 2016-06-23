@@ -19,5 +19,5 @@ one to remember him to switch off the heaters, the other to remember him to swit
 Please go to [Devel](Devel#where-can-i-download-devel-version) to grab latest apk.  
 
 App screenshot:  
-<img src="assets/AppScreen.png" width="300">  
+![AppScreen](assets/AppScreen.png)
 note that options are enabled/disabled by sliding. 
