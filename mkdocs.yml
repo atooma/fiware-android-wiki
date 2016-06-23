@@ -9,6 +9,6 @@ pages:
 - Home: index.md
 - Getting started: Getting-started-with-fiware-android.md
 - Fiware: Fiware.md
-- Prject: Project-info.md
+- Project: Project-info.md
 - GAE-fiware: GAE-fiware-server.md
 - Development: Devel.md
