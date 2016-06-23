@@ -18,6 +18,8 @@ one to remember him to switch off the heaters, the other to remember him to swit
 **This was our demo app, and it is not working anymore.**  
 Please go to [Devel](Devel#where-can-i-download-devel-version) to grab latest apk.  
 
-App screenshot:  
-![AppScreen](assets/AppScreen.png =300x)
-note that options are enabled/disabled by sliding. 
+App screenshot:
+Please, note that options are enabled/disabled by sliding.  
+
+![AppScreen](assets/AppScreen.png)
+
