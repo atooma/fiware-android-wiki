@@ -32,6 +32,6 @@ Again, CEP and CB helped us to reach our goals quite fast thanks to their versat
 
 ## Some updated screenshots:
 
-<img src="https://github.com/atooma/fiware-android-wiki/blob/master/assets/MainScreen.png" width="300" align="left">
-<img src="https://github.com/atooma/fiware-android-wiki/blob/master/assets/SettingsScreen.png" width="300" align="right">
+<img src="assets/MainScreen.png" width="300" align="left">
+<img src="assets/SettingsScreen.png" width="300" align="right">
 
