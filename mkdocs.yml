@@ -7,7 +7,7 @@ repo_url: https://github.com/atooma/fiware-android-wiki
 
 pages:
 - Home: README.md
-- Getting started: Getting-started-with-fiware-android.mdd    
+- Getting started: Getting-started-with-fiware-android.md
 - Fiware: Fiware:-an-open-and-simple-help-for-developers.md
 - Prject: Project-info.md
 - GAE-fiware: GAE-fiware-server.md
