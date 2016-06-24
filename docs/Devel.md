@@ -35,5 +35,6 @@ Again, CEP and CB helped us to reach our goals quite fast thanks to their versat
 
 ![MainScreen1](assets/MainScreen1.png)
 ![MainScreen2](assets/MainScreen2.png)
-![SettingsScreen](assets/SettingsScreen.png)
+![SettingsScreen](assets/SettingsScreen1.png)
+![SettingsScreen](assets/SettingsScreen2.png)
 
