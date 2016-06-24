@@ -20,14 +20,15 @@ Calendars and Weather endpoints will be ran on a cron basis.
 It is indeed quite complex.  
 As soon as app starts, an entity "User" is created/updated on gae-fiware.  
 This entity holds lots of information about current user:
-* its device_id that is our unique key to retrieve this user
-* a gcm token, to send notifications to device
-* home location, as coordinates
-* current user location, as coordinates
-* enabled rules
-* temperature delta, needed to let user set up his/her Weather Rule preferences
-* cb entities, that will be wiped out when user requests a "delete data" from app
-* user timezone, needed to know when "in an hour" or "tomorrow" calendar events should start
+
+* its device_id that is our unique key to retrieve user entity  
+* a gcm token, to send notifications to device  
+* home location, as coordinates  
+* current user location, as coordinates  
+* enabled rules  
+* temperature delta, needed to let user set up his/her Weather Rule preferences  
+* cb entities, that will be wiped out when user requests a "delete data" from app  
+* user timezone, needed to know when "in an hour" or "tomorrow" calendar events should start  
 * online boolean, that tells server if user is currently online
 
 ### Online boolean:
