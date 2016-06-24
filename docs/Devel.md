@@ -22,7 +22,6 @@ Ie: my phone can throw only one signal, while yours can send 4-5 signals each ti
 
 ## Where can I download devel version?
 [Here.](https://drive.google.com/a/atooma.com/file/d/0B6EvpPdx6S6sNG5xaXJIUEFWR28/view?usp=sharing)
-This has no more been updated since we started a closed beta on google play store. So it has some bugs/less feature.
 
 ## Development info
 We worked hard to fix some small bugs raised since we published the app on play store in private beta. Moreover, we worked towards cleaning up and improve code sources.  
